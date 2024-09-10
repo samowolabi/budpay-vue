@@ -148,4 +148,4 @@ const initiateBudPayPayment = useBudPayPayment({
         <button @click="initiateBudPayPayment">Pay with BudPay</button>
     </template> 
 </script>
-```# budpay-vue
+```

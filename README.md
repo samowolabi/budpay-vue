@@ -37,8 +37,7 @@ The `BudPayButton` component is a ready-to-use button that triggers the BudPay p
 | `debug`        | `boolean`   | No       | Enables debug mode, e.g., `true`                                                                    |
 | `text`         | `string`    | No       | The text to display on the button, e.g., `"Pay with BudPay"`                                       |
 | `className`    | `string`    | No       | CSS class name for the button styling, e.g., `"btn btn-primary"`                                   |
-| `disabled`     | `boolean`   | No       | Disable the button, e.g., `false`                                                                  |
-| `children`     | `ReactNode` | No       | Content to be rendered within the button.                                                          |
+| `disabled`     | `boolean`   | No       | Disable the button, e.g., `false`                                                     |
 
 
 #### Example Usage
